@@ -757,7 +757,7 @@ function fnc_project_color(values, context) {
 
 
 
-function exp_label_DEPARTEMENT_3_eval_expression(context) {
+function exp_label_DEPARTEMENT_2_eval_expression(context) {
     // nom + code_insee
 
     var feature = context.feature;
